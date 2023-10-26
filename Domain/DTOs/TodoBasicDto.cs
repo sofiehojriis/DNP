@@ -1,4 +1,4 @@
-namespace a;
+namespace Domin.DTOs;
 
 public class TodoBasicDto
 {

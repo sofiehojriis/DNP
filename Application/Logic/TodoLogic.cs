@@ -3,7 +3,7 @@ using Application.LogicInterfaces;
 using Domain.DTOs;
 using Domain.Models;
 
-namespace a;
+namespace Application.Logic;
 
 public class TodoLogic
 {
